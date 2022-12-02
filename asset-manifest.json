@@ -1,0 +1,14 @@
+{
+  "main.css": "git@github.com:npichette2018/CSE4510webapp.git/static/css/main.386a2317.chunk.css",
+  "main.js": "git@github.com:npichette2018/CSE4510webapp.git/static/js/main.230bb450.chunk.js",
+  "main.js.map": "git@github.com:npichette2018/CSE4510webapp.git/static/js/main.230bb450.chunk.js.map",
+  "static/js/1.7e1eaf90.chunk.js": "git@github.com:npichette2018/CSE4510webapp.git/static/js/1.7e1eaf90.chunk.js",
+  "static/js/1.7e1eaf90.chunk.js.map": "git@github.com:npichette2018/CSE4510webapp.git/static/js/1.7e1eaf90.chunk.js.map",
+  "runtime~main.js": "git@github.com:npichette2018/CSE4510webapp.git/static/js/runtime~main.967d8aba.js",
+  "runtime~main.js.map": "git@github.com:npichette2018/CSE4510webapp.git/static/js/runtime~main.967d8aba.js.map",
+  "static/media/flotechlogo.png": "git@github.com:npichette2018/CSE4510webapp.git/static/media/flotechlogo.61e3dddc.png",
+  "static/css/main.386a2317.chunk.css.map": "git@github.com:npichette2018/CSE4510webapp.git/static/css/main.386a2317.chunk.css.map",
+  "index.html": "git@github.com:npichette2018/CSE4510webapp.git/index.html",
+  "precache-manifest.5d14080de7987008e285ce22c83da206.js": "git@github.com:npichette2018/CSE4510webapp.git/precache-manifest.5d14080de7987008e285ce22c83da206.js",
+  "service-worker.js": "git@github.com:npichette2018/CSE4510webapp.git/service-worker.js"
+}
