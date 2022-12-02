@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "git@github.com:npichette2018/CSE4510webapp.git/precache-manifest.5d14080de7987008e285ce22c83da206.js"
+  "/npichette2018/CSE4510webapp.git/precache-manifest.7f7351dde2b0bca0a459d235efa984d2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("git@github.com:npichette2018/CSE4510webapp.git/index.html", {
+workbox.routing.registerNavigationRoute("/npichette2018/CSE4510webapp.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
